@@ -10,7 +10,7 @@ The code implementation of this paper will be released soon.
 Mar. 12 2024: We apologize that due to the policies of Ant Group, the open-sourcing of the TPP project code continues to be postponed. It is recommended to refer to unofficial implementations of this work. 
 If you find any trouble to re-implement the experiment results _after checking the issues of this repository_, please contact: chongzhang20@fudan.edu.cn. 
 
-If oir work is helpful to you, please kindly cite the paper as:
+If our work is helpful to you, please kindly cite the paper as:
 
 ```
 @misc{zhang2023reading,
