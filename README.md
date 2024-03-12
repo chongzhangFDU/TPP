@@ -5,4 +5,18 @@ This is the official repository of the EMNLP 2023 paper `Reading Order Matters: 
 We have currently released the revised datasets FUNSD-r and CORD-r at [Token-Path-Prediction-Datasets](https://github.com/chongzhangFDU/Token-Path-Prediction-Datasets). 
 The code implementation of this paper will be released soon.
 
-Jan. 29 2024: Apologize for the delayed open-sourcing of the TPP project code. The open-sourcing process is subject to the policies of Ant Group, involving multiple procedural steps and is quite slow. If you find any trouble to re-implement the experiment results, please contact: chongzhang20@fudan.edu.cn. 
+Mar. 12 2024: We apologize that due to the policies of Ant Group, the open-sourcing of the TPP project code continues to be postponed. It is recommended to refer to unofficial implementations of this work. 
+If you find any trouble to re-implement the experiment results _after checking the issues of this repository_, please contact: chongzhang20@fudan.edu.cn. 
+
+If oir work is helpful to you, please kindly cite the paper as:
+
+```
+@misc{zhang2023reading,
+      title={Reading Order Matters: Information Extraction from Visually-rich Documents by Token Path Prediction}, 
+      author={Chong Zhang and Ya Guo and Yi Tu and Huan Chen and Jinyang Tang and Huijia Zhu and Qi Zhang and Tao Gui},
+      year={2023},
+      eprint={2310.11016},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
